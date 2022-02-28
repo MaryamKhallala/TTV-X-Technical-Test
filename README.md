@@ -1,3 +1,10 @@
+********Application candidat**********
+
+Hello my name is MARYAM KHALLALA software engineer 
+
+this application is realised using react.js on front end and node.js on back end
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

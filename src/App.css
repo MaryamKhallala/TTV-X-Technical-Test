@@ -26,6 +26,28 @@
 
 .App-link {
   color: #61dafb;
+  
+
+}
+
+.Btn{
+  color: white;
+  background-color: palevioletred;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 280px;
+  height: 40px;
+}
+
+
+.champ {
+  width: 250px;
+  margin: 8px 0;
+  border-width: 1px;
+  border-color: aliceblue;
+  border-style: solid;
+  border-collapse: separate;
+  padding: 10px;
+ 
 }
 
 @keyframes App-logo-spin {
